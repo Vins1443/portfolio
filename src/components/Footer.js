@@ -11,7 +11,7 @@ export const Footer = () => {
       <Container>
         <Row className="align-items-center">
           <Col size={12} sm={6}>
-          <a href="/">
+          <a href={process.env.PUBLIC_URL || "/"}>
             <img src={logo} alt="Logo" />
           </a>
           </Col>
