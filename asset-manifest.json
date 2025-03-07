@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0379c055.css",
-    "main.js": "/static/js/main.cc617946.js",
+    "main.js": "/static/js/main.f7172341.js",
     "static/js/453.298f5782.chunk.js": "/static/js/453.298f5782.chunk.js",
     "static/media/color-sharp.png": "/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
@@ -16,9 +16,9 @@
     "static/media/CentraNo2-Medium.ttf": "/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
     "static/media/footer-bg.png": "/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/VINEET BOTHRA CV.pdf": "/static/media/VINEET BOTHRA CV.171f992ff8dda1709adf.pdf",
     "static/media/fda.png": "/static/media/fda.6d6d762f8b8bfc532a72.png",
     "static/media/am.png": "/static/media/am.840f7f08d85fe2651a31.png",
-    "static/media/Resume-document.pdf": "/static/media/Resume-document.4b1233e04c4341a2665a.pdf",
     "static/media/contact-img.svg": "/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
     "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
@@ -34,11 +34,11 @@
     "static/media/arrow1.svg": "/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "static/media/nav-icon2.svg": "/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
     "main.0379c055.css.map": "/static/css/main.0379c055.css.map",
-    "main.cc617946.js.map": "/static/js/main.cc617946.js.map",
+    "main.f7172341.js.map": "/static/js/main.f7172341.js.map",
     "453.298f5782.chunk.js.map": "/static/js/453.298f5782.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0379c055.css",
-    "static/js/main.cc617946.js"
+    "static/js/main.f7172341.js"
   ]
 }
